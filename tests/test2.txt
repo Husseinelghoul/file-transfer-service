@@ -1,0 +1,10 @@
+myftp>
+myftp> testtest 
+myftp> get file.txt
+myftp> get test.txt
+myftp> put file.txt
+myftp> change file.txt file2.txt
+myftp> get file2.txt
+myftp>
+myftp>
+myftp> ^C 

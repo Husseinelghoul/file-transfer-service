@@ -1,0 +1,8 @@
+myftp> help
+myftp> 
+myftp> 567ytgh
+myftp> put me.txt
+myftp> put you.txt
+myftp> change you.txt us.txt
+myftp> get us.txt
+myftp> bye
